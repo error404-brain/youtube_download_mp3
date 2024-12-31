@@ -3,6 +3,8 @@
 *.pyo
 __pycache__/
 
+downloads/
+
 # Virtual environment directories
 venv/
 ENV/
