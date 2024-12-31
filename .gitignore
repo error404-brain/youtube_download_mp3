@@ -1,0 +1,26 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+ENV/
+env/
+.venv/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python package distributions
+*.egg
+*.egg-info
+dist/
+build/
